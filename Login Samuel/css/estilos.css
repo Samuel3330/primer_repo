@@ -1,0 +1,26 @@
+*  {
+margin:0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+  display: flex;
+  justify-content: center;
+}
+.Bandeja_entrada{
+  width: 40%;
+  text-align: center;
+padding-top: 5em;
+padding-bottom: 5em;
+margin-left: auto;
+margin-right: auto;
+}
+.interior{
+  padding: 2px;
+  border:0.1em solid #E7E7E7;
+
+  box-shadow: 5px 5px 10px #E7E7E7 ;
+}
+.text-center{
+  margin: 0;
+}
